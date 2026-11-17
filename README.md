@@ -4,7 +4,6 @@
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
 ![Experiments](https://img.shields.io/badge/Focus-Hardware%20Testing-orange)
-![Learning](https://img.shields.io/badge/Purpose-Learning-blue)
 ![Maintained](https://img.shields.io/badge/Maintained-Personal%20Project-green)
 
 A collection of Arduino test codes and experiments for testing sensors, electronic components, and modules. Includes sensor interfacing, hardware testing, basic circuit experiments, and code snippets developed while exploring embedded systems.
@@ -32,5 +31,3 @@ A personal space for testing hardware, trying out code, and exploring Arduino-ba
 *Learning, experimenting, and building one project at a time.*
 
 
-
-make it proper
