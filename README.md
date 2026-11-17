@@ -4,8 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
 
-A small collection of Arduino codes for testing sensors and experimenting with electronic components.
-A small collection of Arduino codes for testing sensors and experimenting with electronic components.
+A collection of Arduino test codes and experiments for testing sensors, electronic components, and modules. Includes sensor interfacing, hardware testing, basic circuit experiments, and code snippets developed while exploring embedded systems.
 
 ## Contents
 - Sensor testing
