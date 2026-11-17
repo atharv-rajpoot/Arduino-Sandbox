@@ -1,5 +1,4 @@
 # Arduino Sandbox
-# Arduino Sandbox
 
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?logo=arduino&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)
