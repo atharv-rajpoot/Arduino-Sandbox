@@ -1,13 +1,14 @@
 # Arduino Sandbox
 
-![Experiments](https://img.shields.io/badge/Focus-Hardware%20Testing-orange)
-![Learning](https://img.shields.io/badge/Purpose-Learning-blue)
-![Maintained](https://img.shields.io/badge/Maintained-Personal%20Project-green)
+
 ---
 
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?logo=arduino&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
+![Experiments](https://img.shields.io/badge/Focus-Hardware%20Testing-orange)
+![Learning](https://img.shields.io/badge/Purpose-Learning-blue)
+![Maintained](https://img.shields.io/badge/Maintained-Personal%20Project-green)
 
 A collection of Arduino test codes and experiments for testing sensors, electronic components, and modules. Includes sensor interfacing, hardware testing, basic circuit experiments, and code snippets developed while exploring embedded systems.
 
